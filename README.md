@@ -1,2 +1,2 @@
-# pcvk_ganjil_2024
+# Pemrograman Citra dan Visi Computer
 A repository for pcvk learning
